@@ -1,6 +1,6 @@
 export default function Home() {
   const linkedin = "https://www.linkedin.com/in/vikramsran/";
-  const github = "https://github.com/sranspark";
+  const github = "https://github.com/nukesran";
 
   return (
     <main>
@@ -233,4 +233,3 @@ export default function Home() {
     </main>
   );
 }
-
